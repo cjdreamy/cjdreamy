@@ -12,7 +12,7 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript,vite,c,npm,sui,python,java,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript,vite,c,npm,sui,python,java,linux,git,github,rollup,vscode,discord,kali,bash,windows" />
 </p>
 ##Tech Stack
 <ul>
@@ -22,6 +22,13 @@
 <li>vite + firebase</li> 
 <li>OpenAI API, Gemini API</li>
 </ul>
+
 <p>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=cjdreamy&theme=tokyonight)](https://git.io/streak-stats)
+</p>
+<p>
+### 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=cjdreamy&label=Visitors&color=blue&style=for-the-badge" />
+<br/>
+<img src="https://profile-counter.glitch.me/cjdreamy/count.svg" />
 </p>
