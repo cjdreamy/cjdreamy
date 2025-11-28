@@ -1,7 +1,10 @@
 
+<h1 align="center"> Hi 👋, I'm 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=38&duration=2000&pause=500&center=true&vCenter=true&width=600&repeat=true&background=00000000&color=FF0000&lines=cjdreamy;cjdreamy;cjdreamy;cjdreamy;cjdreamy;">
+</h1>
 
-<h1 align="center">Hi 👋, I'm [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Cjdreamy;)](https://git.io/typing-svg)</h1>
-<h3 align="center">Passionate Developer from K</h3>
+
+<h3 align="center">Passionate Developer </h3>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=Cjdreamy;Fullstack+Developer;Linux+Enthusiast;AI+Explorer;Blockchain;)](https://git.io/typing-svg)
 
