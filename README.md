@@ -22,3 +22,6 @@
 <li>vite + firebase</li> 
 <li>OpenAI API, Gemini API</li>
 </ul>
+<p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cjdreamy&theme=tokyonight)](https://git.io/streak-stats)
+</p>
