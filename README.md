@@ -7,20 +7,9 @@
 </h1>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=9D00FF&lines=cjdreamy;"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&lines=cjdreamy;cjdreamy&`color=00F7FF`;cjdreamy&`color=9D00FF`;color=004CFF;color=00FF66;color=A833FF">
 </h1>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=004CFF&lines=cjdreamy;"/>
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=00FF66&lines=cjdreamy;"/>
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=A833FF&lines=cjdreamy;"/>
-</h1>
 
 
 
