@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="650" height="120" viewBox="0 0 650 120" role="img" aria-label="cjdreamy neon typing">
+  <defs>
+    <!-- Mask that grows and shrinks to simulate typing + pause + erase -->
+    <mask id="reveal">
+      <!-- white reveals, black conceals in mask space -->
+      <rect x="0" y="0" width="0" height="120" fill="#ffffff">
+        <!-- values: type (0->full), pause (full), erase (full->0) -->
+        <animate attributeName="width"
+                 values="0;650;650;0"
+                 keyTimes="0;0.55;0.9;1"
+                 dur="5s"
+                 repeatCount="indefinite" />
+      </rect>
+    </mask>
+
+    <!-- subtle glow filter to create neon effect -->
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- transparent background -->
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <!-- Text with animated color; the mask gives the typing effect -->
+  <text x="50%" y="60" text-anchor="middle" dominant-baseline="middle"
+        font-family="Fira Code, Consolas, monospace"
+        font-weight="700"
+        font-size="48"
+        mask="url(#reveal)"
+        style="filter:url(#glow);">
+    <tspan>
+      <!-- cycle through colors: aqua, purple, blue, green, violet -->
+      <animate attributeName="fill"
+               values="#00F7FF;#9D00FF;#004CFF;#00FF66;#A833FF;#00F7FF"
+               dur="6s"
+               repeatCount="indefinite" />
+      cjdreamy
+    </tspan>
+  </text>
+</svg>
