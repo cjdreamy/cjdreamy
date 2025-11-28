@@ -1,7 +1,10 @@
 
 <h1 align="center"> Hi 👋, I'm 
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=cjdreamy;">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2000&pause=500&center=true&vCenter=true&width=600&repeat=true&background=00000000&color=00F0FF&lines=%3C%2F%3Ecjdreamy+NEON+MODE;%3C%2F%3Ecjdreamy;%3C%2F%3Ecjdreamy+⚡;">
+
+
 
 
 </h1>
