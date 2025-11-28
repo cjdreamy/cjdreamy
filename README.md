@@ -1,7 +1,7 @@
 
 <h1 align="center"> Hi 👋, I'm 
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=00F7FF&lines=%F0%9F%92%A5+%5B+cjdreamy+%5D+%F0%9F%92%A5;">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=cjdreamy;">
 
 
 </h1>
