@@ -24,11 +24,11 @@
 </ul>
 
 <p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cjdreamy&theme=tokyonight)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=cjdreamy&theme=tokyonight)](https://git.io/streak-stats) -->
 </p>
 <p>
-### 👀 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=cjdreamy&label=Visitors&color=blue&style=for-the-badge" />
+### 👀 Profile Views <br>
+<img src="https://komarev.com/ghpvc/?username=cjdreamy&label=Views&color=blue&style=for-the-badge" />
 <br/>
 <img src="https://profile-counter.glitch.me/cjdreamy/count.svg" />
 </p>
