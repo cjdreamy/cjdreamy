@@ -15,8 +15,10 @@
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,typescript,vite,c,npm,sui,python,java,linux,git,github" />
 </p>
 ##Tech Stack
-- React + Tailwind
-- Node.js + Express
--vite + firebase
-- sqlite 
-- OpenAI API
+<ul>
+<li>React + Tailwind</li>
+<li>Node.js + Express</li>
+    <li>vite + firebase</li>
+<li>vite + firebase</li> 
+<li>OpenAI API, Gemini API</li>
+</ul>
