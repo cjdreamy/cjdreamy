@@ -2,15 +2,11 @@
 <h1 align="center"> Hi 👋, I'm 
   
 
-<h1 align="center">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&color=00F7FF&lines=cjdreamy;"/>
-</h1>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=2000&pause=400&center=true&vCenter=true&width=650&repeat=true&background=00000000&lines=cjdreamy;cjdreamy&`color=00F7FF`;cjdreamy&`color=9D00FF`;color=004CFF;color=00FF66;color=A833FF">
-</h1>
-
-
+<p align="center">
+  <img src="./neon_typing.svg" alt="cjdreamy neon typing">
+</p>
 
 
 </h1>
@@ -31,4 +27,3 @@
 -vite
 - sqlite 
 - OpenAI API
-
